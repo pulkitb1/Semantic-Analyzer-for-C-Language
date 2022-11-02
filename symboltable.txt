@@ -1,0 +1,10 @@
+				SYMBOL TABLE FOR SCOPE : 2
+				z : 25
+		SYMBOL TABLE FOR SCOPE : 1
+		d : 27
+		SYMBOL TABLE FOR SCOPE : 1
+		x : 6
+SYMBOL TABLE FOR SCOPE : 0
+a : 9
+b : 3
+c : 3
