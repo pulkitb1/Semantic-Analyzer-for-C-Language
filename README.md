@@ -18,7 +18,7 @@ Assumptions:
 Assignment statements of the form "a=b" and "a=b+c". 
 If-statement and if-else-statement - no loops and switch.
 
-Programs are made in FLEX, Bison & C++
+Programs are made in FLEX, Bison & C
 
 Instructions: 
 
